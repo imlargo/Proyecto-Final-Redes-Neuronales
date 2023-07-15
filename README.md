@@ -4,3 +4,6 @@ Proyecto Final Introducción a la Ingenieria de Sistemas: Redes Neuronales (usin
 Codigo Fuente del video presentado como proyecto final de la materia "Introducción a la Ingenieria de Sistemas" en primer semestre, todo el video fue generado usando Python/Manim
 
 (Los archivos de Main.py a los q se hace referencia estan en la carpeta Sources)
+
+Final video:
+https://drive.google.com/file/d/1qyAuLuVzoOqa6hVyE0saK-6Pzd7f9wIs/view?usp=sharing
