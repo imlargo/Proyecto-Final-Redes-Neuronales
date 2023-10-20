@@ -5,5 +5,4 @@ Codigo Fuente del video presentado como proyecto final de la materia "Introducci
 
 (Los archivos de Main.py a los q se hace referencia estan en la carpeta Sources)
 
-Final video:
-https://drive.google.com/file/d/1qyAuLuVzoOqa6hVyE0saK-6Pzd7f9wIs/view?usp=sharing
+... proximamente tutorial de uso ...
