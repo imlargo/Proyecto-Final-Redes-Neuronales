@@ -1,4 +1,5 @@
-# Proyecto-Final-Redes-Neuronales
+## Proyecto final: Redes neuronales.
+
 Proyecto Final Introducción a la Ingenieria de Sistemas: Redes Neuronales (using Manim)
 
 Codigo Fuente del video presentado como proyecto final de la materia "Introducción a la Ingenieria de Sistemas" en primer semestre, todo el video fue generado usando Python/Manim
